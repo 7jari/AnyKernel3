@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=UnnamedKernel
+kernel.string=NyariKernel by Tjari @ xda-developers
 do.devicecheck=0
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=lancelot
 device.name2=Lancelot
-device.name3=shiva
+device.name3=merlinx
 device.name4=lava
 device.name5=Lava
 supported.versions=
